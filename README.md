@@ -11,11 +11,11 @@ For this process need to have libraries.
 This compress and de-comress created only for zip,tar,jar,cpio formats.
 
 ## 2.0 Licence
-*All the codes under the apache software licence
+*All the codes under the apache software licence*
  **http://www.apache.org/licenses/LICENSE-2.0**
  
 ## 3.0 Help
- *further development use this websites 
+ *further development use this websites*
  1. https://commons.apache.org/proper/commons-compress/
  2. https://github.com/apache/commons-vfs
  3. https://commons.apache.org/proper/commons-vfs/apidocs/org/apache/commons/vfs2/FileObject.html
@@ -29,7 +29,7 @@ This compress and de-comress created only for zip,tar,jar,cpio formats.
 * commons-vfs
 
 ## 5.0 Methods
-*After downloading the files put the libraries into your files
+*After downloading the files put the libraries into your files*
 then you can call the method ,
 
 **for compression :**
