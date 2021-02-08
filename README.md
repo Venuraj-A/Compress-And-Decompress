@@ -12,6 +12,7 @@ This compress and de-comress created only for zip,tar,jar,cpio formats.
 
 ## 2.0 Licence
 *All the codes under the apache software licence*
+
  **http://www.apache.org/licenses/LICENSE-2.0**
  
 ## 3.0 Help
