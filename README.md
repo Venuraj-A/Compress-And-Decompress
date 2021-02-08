@@ -17,9 +17,9 @@ All the codes under the apache software licence
 ## 3.0 Help
  further development use this websites 
  1. https://commons.apache.org/proper/commons-compress/
- https://github.com/apache/commons-vfs
- https://commons.apache.org/proper/commons-vfs/apidocs/org/apache/commons/vfs2/FileObject.html
- https://en.wikipedia.org/wiki/List_of_archive_formats
+ 2. https://github.com/apache/commons-vfs
+ 3. https://commons.apache.org/proper/commons-vfs/apidocs/org/apache/commons/vfs2/FileObject.html
+ 4. https://en.wikipedia.org/wiki/List_of_archive_formats
  
 ## 4.0 Libraries to be downloaded.
 commons-compress
